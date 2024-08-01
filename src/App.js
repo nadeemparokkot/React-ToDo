@@ -43,7 +43,7 @@ function App() {
       </div>
       <div className="subHeading">
         <br />
-        <h2>Whoop, it's {getCurrentDay()} 🌝 ☕ </h2>
+        <h2>Hi, it's {getCurrentDay()} 🌝 ☕ </h2>
       </div>
       <div className="input">
         <input
